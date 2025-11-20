@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "Act must define key terms.",
+    "status": "pass",
+    "evidence": "\"consumer prices index\" means the all items consumer prices index published by the Statistics Board;\"",
+    "confidence": 100
+  },
+  {
+    "rule": "Act must specify eligibility criteria.",
+    "status": "fail",
+    "evidence": "",
+    "confidence": 0
+  },
+  {
+    "rule": "Act must specify responsibilities of the administering authority.",
+    "status": "pass",
+    "evidence": "The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with subsection (2).",
+    "confidence": 100
+  },
+  {
+    "rule": "Act must include enforcement or penalties.",
+    "status": "fail",
+    "evidence": "",
+    "confidence": 0
+  },
+  {
+    "rule": "Act must include payment calculation or entitlement structure.",
+    "status": "pass",
+    "evidence": "The minimum amounts of the standard allowance for a tax year are calculated as follows— Step 1 Where the tax year is 2026-27, take the amounts of the standard allowance for tax year 2025-26. Where the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting from Step 2 for the previous tax year. Step 2 Increase the amounts identified in Step 1 by the relevant CPI percentage for the tax year. Step 3 Increase the amounts resulting from Step 2 by the relevant uplift percentage for the tax year.",
+    "confidence": 100
+  },
+  {
+    "rule": "Act must include record-keeping or reporting requirements.",
+    "status": "fail",
+    "evidence": "",
+    "confidence": 0
+  }
+]

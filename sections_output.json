@@ -1,0 +1,35 @@
+{
+  "definitions": {
+    "consumer prices index": "all items consumer prices index published by the Statistics Board",
+    "relevant power": "the power in section 9(2) of the Welfare Reform Act 2012 or the power in section 150(2)(b) of the Social Security Administration Act 1992",
+    "standard allowance": "the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012",
+    "tax year": "the 12 months beginning with 6 April in any year",
+    "LCWRA element": "limited capability for work and work-related activity element",
+    "LCW element": "limited capability for work element"
+  },
+  "obligations": {
+    "Secretary of State": "must exercise a relevant power to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated",
+    "Department for Communities in Northern Ireland": "must exercise a relevant power to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated"
+  },
+  "responsibilities": {
+    "Secretary of State": "must increase the protected LCWRA amount or any amount of the standard allowance for tax years 2026-27 to 2029-30",
+    "Department for Communities in Northern Ireland": "must increase the protected LCWRA amount or any amount of the standard allowance for tax years 2026-27 to 2029-30"
+  },
+  "eligibility": "",
+  "payments": {
+    "standard allowance": {
+      "2026-27": "amounts of the standard allowance for tax year 2025-26",
+      "2027-28": "increased by relevant CPI percentage and uplift percentage",
+      "2028-29": "increased by relevant CPI percentage and uplift percentage",
+      "2029-30": "increased by relevant CPI percentage and uplift percentage"
+    },
+    "LCWRA element": {
+      "2026-27": "£217.26"
+    },
+    "ESA IR personal allowance": {
+      "2026-27 to 2029-30": "increased by relevant CPI percentage"
+    }
+  },
+  "penalties": "",
+  "record_keeping": ""
+}
